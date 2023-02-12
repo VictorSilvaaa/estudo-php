@@ -1,0 +1,3 @@
+<?=
+'Rodando index.php'
+?>
