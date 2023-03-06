@@ -10,6 +10,6 @@ class Login {
         echo "Usuário deslogou";
     }
 }
-
+Login::verificarLogin();
 $login = new Login();
 $login->sairSistema();
